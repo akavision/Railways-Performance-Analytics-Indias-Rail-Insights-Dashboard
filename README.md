@@ -140,7 +140,7 @@ A date range slicer (01-01-2022 to 31-12-2022) allows users to filter all visual
 
 ## 📸 Dashboard Preview
 
-![Railways Performance Analytics Dashboard](preview.png)
+![Railways Performance Analytics Dashboard](https://raw.githubusercontent.com/akavision/Railways-Performance-Analytics-India-s-Rail-Insights-Dashboard/main/Snapshot%20of%20the%20Dashboard.png)
 
 ---
 
